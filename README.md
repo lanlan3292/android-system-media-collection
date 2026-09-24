@@ -23,6 +23,13 @@
         <td></td>
     </tr>
     <tr>
+        <td>violet</td>
+        <td>Redmi Note 7 Pro</td>
+        <td>MIUI 10.2.5</td>
+        <td>卡刷包提取</td>
+        <td></td>
+    </tr>
+    <tr>
         <td>mondrian</td>
         <td>Redmi K60</td>
         <td>HyperOS 1.0.16.0.UMNCNXM</td>
