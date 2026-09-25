@@ -57,7 +57,7 @@
     <tr>
         <td>mione_plus</td>
         <td>Xiaomi Mi 1/1S</td>
-        <td>HyperOS 2.0.205.0.VPOCNXM</td>
+        <td></td>
         <td>卡刷包提取</td>
         <td></td>
     </tr>
