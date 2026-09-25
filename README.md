@@ -23,10 +23,14 @@
         <td></td>
     </tr>
     <tr>
-        <td>violet</td>
-        <td>Redmi Note 7 Pro</td>
-        <td>MIUI 10.2.5</td>
-        <td>卡刷包提取</td>
+        <td rowspan="2">violet</td>
+        <td rowspan="2">Redmi Note 7 Pro</td>
+        <td>MIUI 10.2.5.0.PFHCNXM</td>
+        <td rowspan="2">线刷包提取</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>MIUI 12.5.4.0.QFHCNXM</td>
         <td></td>
     </tr>
     <tr>
@@ -39,7 +43,7 @@
     <tr>
         <td>nikel</td>
         <td>Redmi Note 4 (MTK)</td>
-        <td>MIUI 10.2.2(MBFCNXM)</td>
+        <td>MIUI 10.2.2.MBFCNXM</td>
         <td>真机提取</td>
         <td></td>
     </tr>
